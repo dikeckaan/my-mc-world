@@ -5,5 +5,4 @@ whitelist*
 usercache*
 world/playerdata/
 world/stats/
-world/advancements/
 server.properties
