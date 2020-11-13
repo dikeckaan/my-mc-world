@@ -4,6 +4,6 @@ banned*
 whitelist*
 usercache*
 world/playerdata/
-world/stats
+world/stats/
 world/advancements/
 server.properties
