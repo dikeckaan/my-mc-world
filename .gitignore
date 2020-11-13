@@ -1,0 +1,8 @@
+# Generated files
+logs/
+banned*
+whitelist*
+usercache*
+world/playerdata/
+world/stats
+server.properties
