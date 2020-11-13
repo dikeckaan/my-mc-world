@@ -2,7 +2,7 @@
 i made backup my Minecraft World Here you can clone and test
 ## FOR RUN SERVER INSTALL JAVA 8
 ## How to run server?
-  - Run wiht this command and stop after first run
+  - Run with this command and stop after first run
 
 ```sh
 $ java -Xmx2G -Xms512M -jar server.jar
