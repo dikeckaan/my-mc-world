@@ -11,3 +11,14 @@ $ java -Xmx2G -Xms512M -jar server.jar
   - Then Run again server same code
 
 Pusher added for easy sync with git
+You can copy scipt /usr/bin/ folder to easy push
+
+```sh
+$ pusher type some story about your commit
+```
+
+or type :
+
+```sh
+$ bash pusher.sh type some story about your commit
+```
