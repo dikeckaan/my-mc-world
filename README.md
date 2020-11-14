@@ -9,3 +9,5 @@ $ java -Xmx2G -Xms512M -jar server.jar
 ```
   - Edit server.properties (which is created after first run)
   - Then Run again server same code
+
+Pusher added for easy sync with git
