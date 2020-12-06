@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-06 00:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-11-17 14:16:24 +0000"
@@ -2040,6 +2046,7 @@
       "cooked_beef": "2020-11-17 18:20:43 +0000",
       "beef": "2020-11-14 15:53:20 +0000",
       "baked_potato": "2020-11-14 15:50:33 +0000",
+      "potato": "2020-12-05 23:36:37 +0000",
       "cooked_cod": "2020-11-12 14:00:47 +0000",
       "poisonous_potato": "2020-11-13 00:33:15 +0000",
       "pufferfish": "2020-11-13 00:33:12 +0000",
@@ -3075,6 +3082,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-12 14:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-12-06 01:33:18 +0000"
     },
     "done": true
   },
